@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1669567908 source:c:\users\user\desktop\morsetexthandler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"morse.h"
+	"text.h"
+	"stats.h"
+
+1669567718 c:\users\user\desktop\morsetexthandler\morse.h
+
+1669567384 c:\users\user\desktop\morsetexthandler\text.h
+
+1669567383 c:\users\user\desktop\morsetexthandler\stats.h
+
+1669567908 source:c:\users\user\desktop\morse_project\morsetexthandler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"morse.h"
+	"text.h"
+	"stats.h"
+
+1669567718 c:\users\user\desktop\morse_project\morsetexthandler\morse.h
+
+1669567384 c:\users\user\desktop\morse_project\morsetexthandler\text.h
+
+1669567383 c:\users\user\desktop\morse_project\morsetexthandler\stats.h
+
+1670444577 source:c:\users\user\desktop\fiver\morse_project\morsetexthandler\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"morse.h"
+	"text.h"
+	"stats.h"
+	"structures.h"
+
+1670444577 c:\users\user\desktop\fiver\morse_project\morsetexthandler\morse.h
+
+1670444577 c:\users\user\desktop\fiver\morse_project\morsetexthandler\text.h
+
+1670446558 c:\users\user\desktop\fiver\morse_project\morsetexthandler\stats.h
+
+1670441327 c:\users\user\desktop\fiver\morse_project\morsetexthandler\structures.h
+
